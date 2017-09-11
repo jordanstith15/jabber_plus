@@ -28,4 +28,10 @@
     </emoticon>
     <emoticon defaultKey="TakeNRG" image="./twitch_emotes/TakeNRG.png" text="TakeNRG" order="34">
     </emoticon>
+
+    <!-- BEGIN MP4 -->
+    <emoticon defaultKey="(clapclap)" image="./mp4/clapclap.mp4" text="clapclap" order="35">
+    </emoticon>
+
+
 </emoticons>
