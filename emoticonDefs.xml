@@ -1,63 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <emoticons>
-  <emoticon defaultKey="(rip)" image="rip.png" text="RIP" order="22">
-   <alt>(RIP)</alt>
-	 <alt>(Rip)</alt>
-	 <alt>(riperino)</alt>
-  </emoticon>
-  <emoticon defaultKey="(penguins)" image="penguins.png" text="penguins" order="23" hidden="true">
-	 <alt>(Penguins)</alt>
-	 <alt>(pengs)</alt>
-  </emoticon>
-  <emoticon defaultKey="(koala)" image="koala.png" text="koala" order="24" hidden="true">
-	 <alt>(Koala)</alt>
-  </emoticon>
-  <emoticon defaultKey="(shalmali)" image="shalmali.png" text="Shalmali" order="25" hidden="true">
-	 <alt>(Shalmali)</alt>
-  </emoticon>
-  <emoticon defaultKey="(fire)" image="fire.png" text="fire" order="26">
-	 <alt>(Fire)</alt>
-  </emoticon>
-  <emoticon defaultKey="(poo)" image="poop.png" text="poo" order="27">
-	 <alt>(poop)</alt>
-	 <alt>(Poo)</alt>
-	 <alt>(Poop)</alt>
-  </emoticon>
-  <emoticon defaultKey="(ghost)" image="ghost.png" text="ghost" order="28">
-	 <alt>(spooky)</alt>
-	 <alt>(Ghost)</alt>
-	 <alt>(Spooky)</alt>
-  </emoticon>
-  <emoticon defaultKey="(pusheen)" image="pusheen.png" text="pusheen" order="29">
-	 <alt>(meow)</alt>
-	 <alt>(Pusheen)</alt>
-  </emoticon>
-  <emoticon defaultKey="(hehe)" image="hehe.gif" text="hehe" order="30">
-	 <alt>(Hehe)</alt>
-  </emoticon>
-  <emoticon defaultKey="(lunch)" image="bento.png" text="lunch" order="31">
+  <emoticon defaultKey="(lunch)" image="bento.png" text="lunch" order="22">
 	 <alt>(bento)</alt>
   </emoticon>
-  <emoticon defaultKey=":|" image="neutral.png" text="Neutral" order="32">
-	 <alt>(neutral)</alt>
-  </emoticon>
-  <emoticon defaultKey="(mindblown)" image="mindblown.gif" text="mind blown" order="33">
-	 <alt>(Mindblown)</alt>
-  </emoticon>
-  <emoticon defaultKey="(omg)" image="omg.gif" text="omg" order="34">
-	 <alt>(OMG)</alt>
-  </emoticon>
-  <emoticon defaultKey="(gogogo)" image="rockets.gif" text="gogogo" order="35">
-	 <alt>(onwards)</alt>
-	 <alt>(whoosh)</alt>
-  </emoticon>
-
   <!-- BEGIN TWITCH EMOTES -->
-
-    <emoticon defaultKey="(ditto)" image="./twitch_emotes/(ditto).gif" text="(ditto)" order="36">
+    <emoticon defaultKey="BibleThump" image="./twitch_emotes/BibleThump.png" text="BibleThump" order="23">
     </emoticon>
-    <emoticon defaultKey="Kappa" image="./twitch_emotes/Kappa.png" text="Kappa" order="37">
+    <emoticon defaultKey="BlessRNG" image="./twitch_emotes/BlessRNG.png" text="BlessRNG" order="24">
     </emoticon>
-    <emoticon defaultKey="LUL" image="./twitch_emotes/LUL.png" text="LUL" order="38">
+    <emoticon defaultKey="DoritosChip" image="./twitch_emotes/DoritosChip.png" text="DoritosChip" order="25">
+    </emoticon>
+    <emoticon defaultKey="FrankerZ" image="./twitch_emotes/FrankerZ.png" text="FrankerZ" order="26">
+    </emoticon>
+    <emoticon defaultKey="GivePLS" image="./twitch_emotes/GivePLS.png" text="GivePLS" order="27">
+    </emoticon>
+    <emoticon defaultKey="Jebaited" image="./twitch_emotes/Jebaited.png" text="Jebaited" order="28">
+    </emoticon>
+    <emoticon defaultKey="Kappa" image="./twitch_emotes/Kappa.png" text="Kappa" order="29">
+    </emoticon>
+    <emoticon defaultKey="LUL" image="./twitch_emotes/LUL.png" text="LUL" order="30">
+    </emoticon>
+    <emoticon defaultKey="NotLikeThis" image="./twitch_emotes/NotLikeThis.png" text="NotLikeThis" order="31">
+    </emoticon>
+    <emoticon defaultKey="OSfrog" image="./twitch_emotes/OSfrog.png" text="OSfrog" order="32">
+    </emoticon>
+    <emoticon defaultKey="PanicBasket" image="./twitch_emotes/PanicBasket.png" text="PanicBasket" order="33">
+    </emoticon>
+    <emoticon defaultKey="TakeNRG" image="./twitch_emotes/TakeNRG.png" text="TakeNRG" order="34">
     </emoticon>
 </emoticons>
