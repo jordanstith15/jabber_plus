@@ -12,7 +12,7 @@
     </emoticon>
     <emoticon defaultKey="FrankerZ" image="./twitch_emotes/FrankerZ.png" text="FrankerZ" order="26">
     </emoticon>
-    <emoticon defaultKey="GivePLS" image="./twitch_emotes/GivePLS.png" text="GivePLS" order="27">
+    <emoticon defaultKey="GivePLZ" image="./twitch_emotes/GivePLZ.png" text="GivePLZ" order="27">
     </emoticon>
     <emoticon defaultKey="Jebaited" image="./twitch_emotes/Jebaited.png" text="Jebaited" order="28">
     </emoticon>
@@ -28,10 +28,7 @@
     </emoticon>
     <emoticon defaultKey="TakeNRG" image="./twitch_emotes/TakeNRG.png" text="TakeNRG" order="34">
     </emoticon>
-
-    <!-- BEGIN MP4 -->
-    <emoticon defaultKey="(clapclap)" image="./mp4/clapclap.mp4" text="clapclap" order="35">
-    </emoticon>
+]
 
 
 </emoticons>
