@@ -28,6 +28,15 @@
     </emoticon>
     <emoticon defaultKey="TakeNRG" image="./twitch_emotes/TakeNRG.png" text="TakeNRG" order="34">
     </emoticon>
+    <emoticon defaultKey="PJSalt" image="./twitch_emotes/PJSalt.png" text="PJSalt" order="35">
+    </emoticon>
+    <emoticon defaultKey="tatFood" image="./twitch_emotes/tatFood.png" text="tatFood" order="36">
+    </emoticon>
+    <emoticon defaultKey="tatKevin" image="./twitch_emotes/tatKevin.png" text="tatKevin" order="37">
+    </emoticon>
+    <emoticon defaultKey="tatY" image="./twitch_emotes/tatY.png" text="tatY" order="38">
+    </emoticon>
+
 ]
 
 
