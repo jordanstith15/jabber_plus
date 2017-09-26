@@ -36,7 +36,12 @@
     </emoticon>
     <emoticon defaultKey="tatY" image="./twitch_emotes/tatY.png" text="tatY" order="38">
     </emoticon>
-
+    <emoticon defaultKey="tatKevinM" image="./twitch_emotes/tatKevinM.png" text="tatKevinM" order="39">
+    </emoticon>
+    <emoticon defaultKey="tatKevinS" image="./twitch_emotes/tatKevinS.png" text="tatKevinS" order="40">
+    </emoticon>
+    <emoticon defaultKey="tatKevinH" image="./twitch_emotes/tatKevinH.png" text="tatKevinH" order="41">
+    </emoticon>
 ]
 
 
