@@ -42,6 +42,14 @@
     </emoticon>
     <emoticon defaultKey="tatKevinH" image="./twitch_emotes/tatKevinH.png" text="tatKevinH" order="41">
     </emoticon>
+    <emoticon defaultKey="ySRY" image="./twitch_emotes/ySRY.png" text="ySRY" order="42">
+    </emoticon>
+    <emoticon defaultKey="FeelsSlowMan" image="./twitch_emotes/FeelsSlowMan.png" text="FeelsSlowMan" order="43">
+    </emoticon>
+    <emoticon defaultKey="CyaNerd" image="./twitch_emotes/CyaNerd.png" text="CyaNerd" order="44">
+    </emoticon>
+    <emoticon defaultKey="ohSHUCKS" image="./twitch_emotes/ohSHUCKS.png" text="ohSHUCKS" order="45">
+    </emoticon>
 ]
 
 
