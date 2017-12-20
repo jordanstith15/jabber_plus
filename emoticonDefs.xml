@@ -50,6 +50,24 @@
     </emoticon>
     <emoticon defaultKey="ohSHUCKS" image="./twitch_emotes/ohSHUCKS.png" text="ohSHUCKS" order="45">
     </emoticon>
+    <emoticon defaultKey="WTFKooper" image="./twitch_emotes/WTFKooper.png" text="WTFKooper" order="46">
+    </emoticon>
+    <emoticon defaultKey="GameOver" image="./twitch_emotes/GameOver.png" text="GameOver" order="47">
+    </emoticon>
+    <emoticon defaultKey="weSMART" image="./twitch_emotes/weSMART.png" text="weSMART" order="48">
+    </emoticon>
+    <emoticon defaultKey="OpieOShaq" image="./twitch_emotes/OpieOShaq.png" text="OpieOShaq" order="49">
+    </emoticon>
+    <emoticon defaultKey="ToroSalt" image="./twitch_emotes/ToroSalt.png" text="ToroSalt" order="50">
+    </emoticon>
+    <emoticon defaultKey="GotEm" image="./twitch_emotes/GotEm.png" text="GotEm" order="51">
+    </emoticon>
+    <emoticon defaultKey="JustRight" image="./twitch_emotes/JustRight.png" text="JustRight" order="52">
+    </emoticon>
+    <emoticon defaultKey="WTFgurl" image="./twitch_emotes/WTFgurl.png" text="WTFgurl" order="53">
+    </emoticon>
+    <emoticon defaultKey="HeyPal" image="./twitch_emotes/HeyPal.png" text="HeyPal" order="54">
+    </emoticon>
 ]
 
 
