@@ -68,6 +68,10 @@
     </emoticon>
     <emoticon defaultKey="HeyPal" image="./twitch_emotes/HeyPal.png" text="HeyPal" order="54">
     </emoticon>
+    <emoticon defaultKey="SugoiDesu" image="./twitch_emotes/SugoiDesu.png" text="SugoiDesu" order="55">
+    </emoticon>
+    <emoticon defaultKey="NickyQ" image="./twitch_emotes/NickyQ.png" text="NickyQ" order="56">
+    </emoticon>
 ]
 
 
