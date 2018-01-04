@@ -74,6 +74,24 @@
     </emoticon>
     <emoticon defaultKey=":seinfeld" image="./twitch_emotes/Seinfeld.png" text="Seinfeld" order="57">
     </emoticon>
+    <emoticon defaultKey="pikaPls" image="./twitch_emotes/pikaPls.png" text="pikaPls" order="58">
+    </emoticon>
+    <emoticon defaultKey="LinkHype" image="./twitch_emotes/LinkHype.png" text="LinkHype" order="59">
+    </emoticon>
+    <emoticon defaultKey="DootDoot" image="./twitch_emotes/DootDoot.png" text="DootDoot" order="60">
+    </emoticon>
+    <emoticon defaultKey="HAhaa" image="./twitch_emotes/HAhaa.png" text="HAhaa" order="61">
+    </emoticon>
+    <emoticon defaultKey="RNGPls" image="./twitch_emotes/RNGPls.png" text="RNGPls" order="62">
+    </emoticon>
+    <emoticon defaultKey="PoohBruh" image="./twitch_emotes/PoohBruh.png" text="PoohBruh" order="63">
+    </emoticon>
+    <emoticon defaultKey="PikaWhy" image="./twitch_emotes/PikaWhy.png" text="PikaWhy" order="64">
+    </emoticon>
+    <emoticon defaultKey="iAngry" image="./twitch_emotes/iAngry.png" text="iAngry" order="65">
+    </emoticon>
+    <emoticon defaultKey="Ujelly" image="./twitch_emotes/Ujelly.png" text="Ujelly" order="66">
+    </emoticon>
 ]
 
 
