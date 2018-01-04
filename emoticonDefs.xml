@@ -72,6 +72,8 @@
     </emoticon>
     <emoticon defaultKey="NickyQ" image="./twitch_emotes/NickyQ.png" text="NickyQ" order="56">
     </emoticon>
+    <emoticon defaultKey=":seinfeld" image="./twitch_emotes/Seinfeld.png" text="Seinfeld" order="57">
+    </emoticon>
 ]
 
 
